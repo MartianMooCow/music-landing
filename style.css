@@ -2,7 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     margin: 0;
-    flex: auto;
+   
     
 }
 
@@ -106,7 +106,7 @@ a{
     align-items: center;
 
     background-image: url(./images/bars.jpeg);
-    background-size: 1300px auto;
+    background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center;
 }
